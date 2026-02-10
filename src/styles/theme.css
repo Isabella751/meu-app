@@ -1,0 +1,16 @@
+:root{
+--primary-color: #3498db;
+--secondary-color: #2ecc71;
+--font-family: 'Helvetica Neue', sans-serif;
+--font-size-base: 16px;
+--spacing-unit: 8px;
+--cor-de-fundo-pag: #2c2c2c;
+--cor-de-fundo-car: #474747;
+--cor-de-texto: #ffffff;
+--cor-degrade-1: #b900e7;
+--cor-degrade-2: #00ffd5;
+--bordas-leves: 12px;
+--bordas-pesadas: 25px;
+--espacamento: 16px;
+--transicao: transition: all 0.3s ease-in-out;
+} 
