@@ -6,7 +6,7 @@ export function App() {
     <>
       <main>
       <h1>Olá</h1>
-      <p>insira nome e senha</p>
+      <p>Entre com seu nome e senha</p>
       
         <label>Nome:
             <input type="email" placeholder="Digite seu nome" required></input>
